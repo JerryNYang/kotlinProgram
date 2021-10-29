@@ -37,14 +37,19 @@ fun main() {
     
     
     println("myfx() " + myfx())
-    helloMJ()
-    
+    println(helloMJ())
+    println(myfunc())
 }
 
 
 fun myfx():Int
 {
     return 4
+}
+
+fun myfunc():Int
+{
+    return 44
 }
 
 // Unit = void
