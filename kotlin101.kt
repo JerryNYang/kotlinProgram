@@ -17,9 +17,10 @@ fun main() {
     myARRAY[2] = "32323"
     myARRAY[3] = "777"
     myARRAY[4] = "12155"
+    myARRAY[5] = "288888"
     
     
-    println(myARRAY[4])
+    println(myARRAY[5])
     
     val myNUMARRAY = intArrayOf(11,222,3444,331)
     println(myNUMARRAY.size)
