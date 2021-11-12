@@ -17,7 +17,7 @@ fun main() {
     myARRAY[2] = "32323"
     myARRAY[3] = "777"
     myARRAY[4] = "12155"
-    myARRAY[5] = "288888"
+    myARRAY[5] = "2888883j"
     
     
     println(myARRAY[5])
