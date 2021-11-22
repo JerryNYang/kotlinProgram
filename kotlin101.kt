@@ -11,7 +11,7 @@ fun main() {
     val cat : Float = 5F
     println(cat)
     
-    val myARRAY = arrayOfNulls<String>(4)
+    val myARRAY = arrayOfNulls<String>(7)
     myARRAY[0] = "2"
     myARRAY[1] = "44"
     myARRAY[2] = "32323"
