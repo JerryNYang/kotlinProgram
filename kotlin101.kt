@@ -18,6 +18,7 @@ fun main() {
     myARRAY[3] = "777"
     myARRAY[4] = "12155"
     myARRAY[5] = "2888883j"
+    myARRAY[6] = "28YakYikesj"
     
     
     println(myARRAY[5])
